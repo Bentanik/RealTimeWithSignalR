@@ -1,0 +1,6 @@
+@SignR_HostAddress = http://localhost:5070
+
+GET {{SignR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
